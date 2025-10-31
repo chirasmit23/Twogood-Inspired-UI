@@ -33,12 +33,22 @@ It is a **non-commercial educational recreation** created solely for learning an
 All images, logos, and branding belong to their respective owners.
 
 ---
-## Demo
+## 🚀 Demo
 
-https://github.com/user-attachments/assets/88b670a0-1e8e-4ddd-9feb-c3f53df052f3
+🎥 **Live Preview Video:**  
+[Watch Demo](https://github.com/user-attachments/assets/88b670a0-1e8e-4ddd-9feb-c3f53df052f3)
 
-![1000239391](https://github.com/user-attachments/assets/11cfee9b-3b88-4edc-8e68-0a606e0f4751)
-![1000239392](https://github.com/user-attachments/assets/e6fbb660-2da0-46e4-a803-a94e5eed2d87)
-![1000239393](https://github.com/user-attachments/assets/9852bb03-7ad6-445f-9871-1e8f06d4d569)
+---
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11cfee9b-3b88-4edc-8e68-0a606e0f4751" width="350" alt="Desktop View">
+  <img src="https://github.com/user-attachments/assets/e6fbb660-2da0-46e4-a803-a94e5eed2d87" width="200" alt="Tablet View">
+  <img src="https://github.com/user-attachments/assets/9852bb03-7ad6-445f-9871-1e8f06d4d569" width="180" alt="Mobile View">
+</p>
+
+<p align="center">
+  <em>✨ Fully responsive design – optimized for desktop, tablet, and mobile.</em>
+</p>
 
