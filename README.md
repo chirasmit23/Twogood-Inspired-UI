@@ -1,6 +1,6 @@
 # Two Good Co. Inspired Website (HTML, CSS, JS, GSAP)
 
-This project is a **frontend recreation** inspired by the design and layout of [Two Good Co.](https://twogood.com.au/).  
+This project is a **frontend recreation** inspired by the design and layout of [Two Good Co.].  
 Built with **HTML, CSS, and JavaScript**, little bit of **GSAP** for smooth animations and use **Locomotive js** for creates a smooth, natural scrolling experience on websites .
 
 ---
