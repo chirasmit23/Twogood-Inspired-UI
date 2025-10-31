@@ -4,7 +4,7 @@ This project is a **frontend recreation** inspired by the design and layout of [
 Built with **HTML, CSS, and JavaScript**, little bit of **GSAP** for smooth animations and use **Locomotive js** for creates a smooth, natural scrolling experience on websites .
 
 ---
-## 🚀 Live Demo
+## 🚀 Live Link
 👉 *[https://6904dc81efe00e759010feab--superb-custard-3976ce.netlify.app/]*
 
 ---
@@ -43,9 +43,9 @@ All images, logos, and branding belong to their respective owners.
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/11cfee9b-3b88-4edc-8e68-0a606e0f4751" width="350" alt="Desktop View">
+  <img src="https://github.com/user-attachments/assets/11cfee9b-3b88-4edc-8e68-0a606e0f4751" width="200" alt="Desktop View">
   <img src="https://github.com/user-attachments/assets/e6fbb660-2da0-46e4-a803-a94e5eed2d87" width="200" alt="Tablet View">
-  <img src="https://github.com/user-attachments/assets/9852bb03-7ad6-445f-9871-1e8f06d4d569" width="180" alt="Mobile View">
+  <img src="https://github.com/user-attachments/assets/9852bb03-7ad6-445f-9871-1e8f06d4d569" width="200" alt="Mobile View">
 </p>
 
 <p align="center">
