@@ -1,3 +1,6 @@
+![1000239393](https://github.com/user-attachments/assets/597e6c57-e074-41d3-82c9-aedd72e5ebc9)
+![1000239392](https://github.com/user-attachments/assets/b9b1b95a-48e3-44e6-83ec-33b1b14b7989)
+![1000239391](https://github.com/user-attachments/assets/17fe125e-70ab-4908-879e-bdfbbff9cf10)
 # Two Good Co. Inspired Website (HTML, CSS, JS, GSAP)
 
 This project is a **frontend recreation** inspired by the design and layout of [Two Good Co.](https://twogood.com.au/).  
